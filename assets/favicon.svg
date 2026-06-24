@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="4" fill="#0E1B2C"/>
+  <path d="M6 6h4v4H6z" fill="none" stroke="#4FD1E8" stroke-width="1.4"/>
+  <path d="M22 6h4v4h-4z" fill="none" stroke="#4FD1E8" stroke-width="1.4"/>
+  <path d="M6 22h4v4H6z" fill="none" stroke="#4FD1E8" stroke-width="1.4"/>
+  <path d="M22 22h4v4h-4z" fill="none" stroke="#4FD1E8" stroke-width="1.4"/>
+  <text x="16" y="20" font-family="monospace" font-size="11" fill="#EDEFF2" text-anchor="middle">JB</text>
+</svg>
